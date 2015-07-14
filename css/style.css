@@ -1,0 +1,120 @@
+@import url(http://fonts.googleapis.com/css?family=Open+Sans);
+
+body {
+  background-image: url(http://nextdoortothemoon.com/wp-content/themes/nextdoor/images/dark_wall.png);
+  background-repeat: repeat;
+  color: white;
+  font-family: 'Open Sans', sans-serif;
+  padding-top: 70px;
+}
+
+.embed-responsive {
+  /*width: 100%;*/
+  /*height: 100%;*/
+}
+
+.padded-row {
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+.padded-col {
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+@font-face {
+font-family: "captureit";
+  src: url("../fonts/capture_it-webfont.eot");
+  src: url("../fonts/capture_it-webfont.eot?#iefix") format("embedded-opentype"),
+  url("../fonts/Capture_it.ttf") format("truetype");
+
+}
+
+
+
+.captured {
+  -webkit-font-smoothing: antialiased;
+  font-family: captureit;
+	font-weight:100;
+	color:#ffffff;
+	/*padding-bottom:8%;*/
+  letter-spacing: 0.0245em;
+  outline-color: rgb(255, 255, 255);
+}
+.open-sans {
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 200;
+  color: rgb(204, 204, 204);
+
+}
+
+h2.captured {
+  font-size: 3em;
+  text-align: center;
+  font-weight: normal;
+}
+
+h1.captured {
+  font-size: 4em;
+  text-align: center;
+  font-weight: normal;
+
+}
+
+.form-control{
+  background-color: #616161;
+  border-color: #616161;
+  color: white;
+}
+.form-control::-webkit-input-placeholder {
+   color: lightgray;
+}
+
+.form-control:-moz-placeholder { /* Firefox 18- */
+   color: lightgray;
+}
+
+
+.form-control::-moz-placeholder {  /* Firefox 19+ */
+   color: lightgray;
+}
+
+.form-control:-ms-input-placeholder {
+   color: lightgray;
+}
+
+.btn-default, .btn-default:hover, .btn-default:focus {
+  background-color: #660000;
+  border-color: #660000;
+  color: white;
+
+}
+
+.navbar-inverse {
+  background-color: black !important;
+}
+
+.navbar-inverse {
+  background-color: black !important;
+}
+
+
+.burgundy-bg {
+  background-color: #990000 !important;
+}
+
+.burgundy {
+  color: #990000;
+}
+
+a.burgundy, a.burgundy:hover {
+  color: #990000;
+  text-decoration: none;
+  font-weight: bolder;
+  /*font-style: bold;*/
+}
+
+#redone {
+  color: #990000;
+}
