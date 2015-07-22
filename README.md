@@ -8,7 +8,7 @@ Next door to the moon
 Have all redirect to nextdoortothemoon@gmail.com and set email forwarding
 Fix mailing list
 Sendgrid for email make sure “unknown sender” doesn’t appear
-Turn blog to a tumblr feed
+Turn blog to a tumblr feed (check if possible)
 Mailing lists for fans, mail chimp?
 
 ### Done
